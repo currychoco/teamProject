@@ -7,6 +7,6 @@
 <title>관광지</title>
 </head>
 <body>
-	
+	홍지웅 관광지 커밋
 </body>
 </html>
